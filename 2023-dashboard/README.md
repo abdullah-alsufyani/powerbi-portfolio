@@ -1,6 +1,6 @@
 # Saudi Establishments in 2023 Dashboard
 
-![Dashboard](اسم-الصورة.png)
+![Dashboard](2023.png)
 
 ## Overview
 Interactive dashboard analyzing 1.31M Saudi establishments by size (micro to large), 13 geographic regions, and quarterly performance.
