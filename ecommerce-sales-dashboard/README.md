@@ -1,6 +1,6 @@
 # E-commerce Sales Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](ecommerce sales.png)
 
 ## Overview
 Interactive Power BI dashboard analyzing e-commerce sales across Saudi cities, categories, and payment methods (Jan 2024 - Jun 2025).
